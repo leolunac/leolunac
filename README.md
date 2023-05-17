@@ -1,4 +1,4 @@
-### ¡Hola a todos! Mi nombre es Leopoldo Luna- aka [leolunac][Facebook] 👋
+### ¡Hola a todos! Mi nombre es Leopoldo Luna- [leolunac][Facebook] 👋
 
 ## Soy Ingeniero de sistemas y desarrollador de Software
 
