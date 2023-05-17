@@ -1,4 +1,4 @@
-### Hola a todos mi nombre es Leopoldo
+### Hola a todos mi nombre es Leopoldo Luna ✔
 
 ## Mis estadisticas son:
 
