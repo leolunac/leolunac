@@ -2,6 +2,6 @@
 
 ## Mis estadisticas son:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolunac)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leolunac&show_icons=true&theme=radical)
 
 
