@@ -3,5 +3,5 @@
 ## Mis estadisticas son:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leolunac&show_icons=true&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leolunac&show_icons=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leolunac&show_icons=true&bg_color=00000000)
+[GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=leolunac&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/leolunac/github-readme-stats#gh-dark-mode-only)
+[GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/leolunac/github-readme-stats#gh-light-mode-only)
